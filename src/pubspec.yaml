@@ -1,7 +1,6 @@
 name: animal_switcher
 description: A simple Flutter application to demonstrate text and icon switching between a cat and a dog using the Cubit pattern for state management.
 version: 1.0.0
-
 environment:
   sdk: ">=2.12.0 <3.0.0"
   flutter: ">=2.0.0 <3.0.0"
